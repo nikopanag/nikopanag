@@ -13,21 +13,20 @@ price tracking across 20+ storefronts. Three years of solo development across
 client, server, and infrastructure. Shipped v0.1.0 in May 2026.
 
 - Website: [rift-gaming.com](https://www.rift-gaming.com)
-- Stack: Electron · TypeScript · [backend] · [database] · IGDB API · Steam Web
-  API · GoG Galaxy SDK · Epic Games SDK · CheapShark
+- Stack: Electron · React · TypeScript · Node.js · PostgreSQL · SQLite · IGDB
+  API · Steam Web API · GoG Galaxy SDK · Epic Games SDK · CheapShark
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f9545387-44e9-49c1-90b6-7bf0087ae3a3" />
-
+<img width="1200" height="800" alt="Rift Launcher — universal game library with native deal tracking" src="https://github.com/user-attachments/assets/f9545387-44e9-49c1-90b6-7bf0087ae3a3" />
 
 ---
 
 ### What I work with
 
-**Languages**: TypeScript, JavaScript, [other languages]
-**Client**: Electron, [UI framework]
-**Backend**: [your stack], REST APIs, third-party integrations at scale
-**Data**: [your DB], caching strategies, deal pipeline normalization
-**Infra**: [Docker / CI / hosting], code signing, auto-update systems
+**Languages**: TypeScript, JavaScript, Python
+**Client**: Electron, React
+**Backend**: Node.js, REST APIs, third-party integrations at scale
+**Data**: PostgreSQL (server), SQLite via better-sqlite3 (client), caching strategies, deal pipeline normalization
+**Infra**: Railway, Vercel, code signing, auto-update systems
 
 ---
 
