@@ -23,9 +23,13 @@ client, server, and infrastructure. Shipped v0.1.0 in May 2026.
 ### What I work with
 
 **Languages**: TypeScript, JavaScript, Python
+
 **Client**: Electron, React
+
 **Backend**: Node.js, REST APIs, third-party integrations at scale
+
 **Data**: PostgreSQL (server), SQLite via better-sqlite3 (client), caching strategies, deal pipeline normalization
+
 **Infra**: Railway, Vercel, code signing, auto-update systems
 
 ---
