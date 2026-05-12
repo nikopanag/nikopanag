@@ -16,7 +16,8 @@ client, server, and infrastructure. Shipped v0.1.0 in May 2026.
 - Stack: Electron · TypeScript · [backend] · [database] · IGDB API · Steam Web
   API · GoG Galaxy SDK · Epic Games SDK · CheapShark
 
-<!-- Hero screenshot or short demo GIF goes here -->
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/f9545387-44e9-49c1-90b6-7bf0087ae3a3" />
+
 
 ---
 
